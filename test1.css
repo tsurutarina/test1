@@ -62,5 +62,18 @@ footer{
   header{
     width:100%;
   }
-
+  main{
+    width:100%;
+    display: block;
+  }
+  .box{
+    width:90%;
+    margin:20px auto;
+  }
+  .box:last-child{
+    margin-right:auto;
+  }
+  footer{
+    width:100%;
+  }
 }
